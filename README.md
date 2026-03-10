@@ -145,50 +145,78 @@ I build high-performance software solutions — web apps, SaaS platforms, tradin
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Enterprise SaaS Dashboard</h3>
+<h3 align="center"><a href="https://pipscrusher.com">PipsCrusher Trading SaaS</a></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+<p align="center">Full-scale forex & metals trading SaaS with 10 algorithmic strategies, MetaTrader 5 auto-execution, 6 payment gateways, and multi-platform access via Web, Mobile & Telegram.</p>
+</td>
+<td width="50%">
+<h3 align="center"><a href="https://vidspectra.com">VidSpectra AI Creator Suite</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+<p align="center">Multi-tenant SaaS powering AI content generation, 200+ neural voices across 6 engines, niche discovery, white-label partner system, and multi-currency billing across 6 payment processors.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">IQ Option Auto-Trading Platform</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
-<p align="center">Multi-tenant SaaS platform with database-level isolation, role-based access controls, audit trails, and sub-200ms load times. Serving 500+ enterprise clients.</p>
+<p align="center">AI-powered trading signal platform with Telegram bot + Mobile app. Real-time signal generation across 10 strategies with auto-trade execution directly from user devices.</p>
 </td>
 <td width="50%">
-<h3 align="center">Automation Ops Portal</h3>
+<h3 align="center">Subscription Automation Bot</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-<p align="center">Centralized operations portal that automates workflows with real-time dashboards, audit trails, and role-based access. Cut manual operations by 60%.</p>
+<p align="center">Fully automated Telegram subscription bot handling payments via Paystack, Flutterwave & KoraPay, access control, smart coupon engine, and auto-renewals — reducing manual management by 100%.</p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">AI Signal Engine</h3>
+<h3 align="center">Intelligent IQ Option Signal Bot</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
-<p align="center">ML-powered trading signal engine with confidence scoring, historical backtesting, configurable risk rules, and real-time performance tracking. Processing 10K+ daily signals.</p>
+<p align="center">Autonomous Telegram ecosystem managing VIP trading communities — 24/7 AI signal generation, Martingale risk management, timezone-aware scheduling, and automated pre-session briefings.</p>
 </td>
 <td width="50%">
-<h3 align="center">Mobile Client Portal</h3>
+<h3 align="center"><a href="https://equallivinghomes.org">Equal Living Homes Website</a></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
-<p align="center">Cross-platform mobile app with offline-first architecture, smart sync, encrypted document sharing, push notifications, and biometric authentication.</p>
+<p align="center">Modern website for supportive shared housing — mission-focused messaging, tour inquiry CTAs with click-to-call, testimonial sections, and fully mobile-responsive design.</p>
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**[View All Projects](https://uniqueedge.dev/portfolio)** | **[Visit Website](https://uniqueedge.dev)**
+
+</div>
 
 ---
 
