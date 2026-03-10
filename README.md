@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+Software+Engineer+%7C+CEO%2C+Unique+Edge+Technologies;Building+High-Performance+Software+That+Scales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Full-Stack+Software+Engineer;CEO+%40+Unique+Edge+Technologies;Building+Software+That+Scales)](https://git.io/typing-svg)
 
 <br/>
 
