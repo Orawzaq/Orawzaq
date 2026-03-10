@@ -255,10 +255,9 @@ I build high-performance software solutions — web apps, SaaS platforms, tradin
 
 [![Website](https://img.shields.io/badge/uniqueedge.dev-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://uniqueedge.dev)
 [![Email](https://img.shields.io/badge/hello@uniqueedge.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@uniqueedge.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/razaq-olaniyan-3a7a7a221/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@uniqueedgetechnologies)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UniqueEdgeTechnologies/)
 
 </div>
 
