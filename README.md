@@ -42,7 +42,7 @@ I build high-performance software solutions — web apps, SaaS platforms, tradin
 > Cut manual operations by 60%
 
 **🔹 Trading Bots & Signal Engines**
-> Processing 10K+ daily signals with ML confidence scoring
+> Smart execution with real-time analytics and risk management
 
 </td>
 <td width="50%">
